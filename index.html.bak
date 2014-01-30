@@ -46,7 +46,10 @@
             <div class="row bottom">
                 <div class="col-lg-8 col-md-8 col-sm-7 col-left">
                     <div>
-                        <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+                        <section>
+                            <div class="row text-center">
+                                <div class="col-lg-12">
+                                    <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
                                       <!-- Indicators -->
                                       <ol class="carousel-indicators">
                                         <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
@@ -77,11 +80,7 @@
                                         <span class="glyphicon glyphicon-chevron-right"></span>
                                       </a>
                                     </div>
-
-                        <section>
-                            <div class="row text-center">
-                                <div class="col-lg-12">
-                                                                        <!--activity image-->
+                                    <!--activity image-->
                                     <!-- <img class="img-responsive" src="img/1.jpg" alt="Project header"> -->
                                     <!-- <div class="row">
                                         <div class="col-md-12" id="picture"></div>
