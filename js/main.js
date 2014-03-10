@@ -32,3 +32,4 @@ $(".item-choice a").click(function(e){
    e.preventDefault();
 });
 $('#Grid').mixitup();
+
