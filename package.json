@@ -1,0 +1,42 @@
+{
+  "name": "oxfordfoods",
+  "version": "1.0.0",
+  "description": "Oxford Foods corporate website",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "export": "next export",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evanlouie/oxfordfoods.git"
+  },
+  "author": "Evan Louie <evan.louie@outlook.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/evanlouie/oxfordfoods/issues"
+  },
+  "homepage": "https://github.com/evanlouie/oxfordfoods#readme",
+  "dependencies": {
+    "@material-ui/core": "^3.9.2",
+    "@types/jquery": "^3.3.29",
+    "@types/next": "^8.0.1",
+    "@types/react": "^16.8.8",
+    "@types/react-dom": "^16.8.2",
+    "@types/styled-jsx": "^2.2.8",
+    "@zeit/next-css": "^1.0.1",
+    "@zeit/next-less": "^1.0.1",
+    "@zeit/next-sass": "^1.0.1",
+    "@zeit/next-typescript": "^1.1.1",
+    "bootstrap": "^3.4.1",
+    "jquery": "^3.3.1",
+    "less": "^3.9.0",
+    "next": "^8.0.3",
+    "node-sass": "^4.11.0",
+    "react": "^16.8.4",
+    "react-dom": "^16.8.4"
+  }
+}
